@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\web_DK_TT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C08036D-25B7-41F1-BE32-60203F77699D}|web_DK_TT\\web_DK_TT.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\web_dk_tt\\web_dk_tt\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C08036D-25B7-41F1-BE32-60203F77699D}|web_DK_TT\\web_DK_TT.csproj|solutionrelative:web_dk_tt\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C08036D-25B7-41F1-BE32-60203F77699D}|web_DK_TT\\web_DK_TT.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\web_dk_tt\\web_dk_tt\\controllers\\dangkyttcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C08036D-25B7-41F1-BE32-60203F77699D}|web_DK_TT\\web_DK_TT.csproj|solutionrelative:web_dk_tt\\controllers\\dangkyttcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C08036D-25B7-41F1-BE32-60203F77699D}|web_DK_TT\\web_DK_TT.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\web_dk_tt\\web_dk_tt\\views\\dangkytt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C08036D-25B7-41F1-BE32-60203F77699D}|web_DK_TT\\web_DK_TT.csproj|solutionrelative:web_dk_tt\\views\\dangkytt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C08036D-25B7-41F1-BE32-60203F77699D}|web_DK_TT\\web_DK_TT.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\web_dk_tt\\web_dk_tt\\views\\dangkytt\\showkq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C08036D-25B7-41F1-BE32-60203F77699D}|web_DK_TT\\web_DK_TT.csproj|solutionrelative:web_dk_tt\\views\\dangkytt\\showkq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowKQ.cshtml",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\web_DK_TT\\web_DK_TT\\Views\\DangKyTT\\ShowKQ.cshtml",
+              "RelativeDocumentMoniker": "web_DK_TT\\Views\\DangKyTT\\ShowKQ.cshtml",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\web_DK_TT\\web_DK_TT\\Views\\DangKyTT\\ShowKQ.cshtml",
+              "RelativeToolTip": "web_DK_TT\\Views\\DangKyTT\\ShowKQ.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T15:31:02.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\web_DK_TT\\web_DK_TT\\Views\\DangKyTT\\Index.cshtml",
+              "RelativeDocumentMoniker": "web_DK_TT\\Views\\DangKyTT\\Index.cshtml",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\web_DK_TT\\web_DK_TT\\Views\\DangKyTT\\Index.cshtml",
+              "RelativeToolTip": "web_DK_TT\\Views\\DangKyTT\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T15:30:42.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangKyTTController.cs",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\web_DK_TT\\web_DK_TT\\Controllers\\DangKyTTController.cs",
+              "RelativeDocumentMoniker": "web_DK_TT\\Controllers\\DangKyTTController.cs",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\web_DK_TT\\web_DK_TT\\Controllers\\DangKyTTController.cs",
+              "RelativeToolTip": "web_DK_TT\\Controllers\\DangKyTTController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:30:20.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\web_DK_TT\\web_DK_TT\\Models\\SinhVien.cs",
+              "RelativeDocumentMoniker": "web_DK_TT\\Models\\SinhVien.cs",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\web_DK_TT\\web_DK_TT\\Models\\SinhVien.cs",
+              "RelativeToolTip": "web_DK_TT\\Models\\SinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:29:29.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

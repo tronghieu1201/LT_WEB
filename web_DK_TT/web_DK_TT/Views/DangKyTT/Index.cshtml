@@ -1,0 +1,42 @@
+﻿@model web_DK_TT.Models.SinhVien
+@{
+    ViewData["Title"] = "Đăng ký thông tin sinh viên";
+}
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+<div class="container mt-5">
+    <div class="card shadow-lg border-0">
+        <div class="card-header bg-primary text-white text-center">
+            <h2>📋 Đăng ký thông tin sinh viên</h2>
+        </div>
+        <div class="card-body">
+            <form asp-action="ShowKQ" method="post">
+                <div class="mb-3">
+                    <label class="form-label">📌 Mã số sinh viên (MSSV)</label>
+                    <input asp-for="MSSV" class="form-control" placeholder="Nhập MSSV" required />
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">👤 Họ tên</label>
+                    <input asp-for="HoTen" class="form-control" placeholder="Nhập họ tên" required />
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">📊 Điểm trung bình</label>
+                    <input asp-for="DiemTB" type="number" step="0.01" class="form-control" placeholder="VD: 7.5" required />
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">📚 Chuyên ngành</label>
+                    <select asp-for="ChuyenNganh" class="form-select" required>
+                        <option value="">-- Chọn chuyên ngành --</option>
+                        <option>CNPM</option>
+                        <option>HTTT</option>
+                        <option>ANM</option>
+                        <option>TTNT</option>
+                        <option>MMT</option>
+                    </select>
+                </div>
+                <button type="submit" class="btn btn-success w-100">✅ Đăng ký ngay</button>
+            </form>
+        </div>
+    </div>
+</div>
