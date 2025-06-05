@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\tronghieu_941\\tronghieu_941\\controllers\\hocphancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|solutionrelative:tronghieu_941\\controllers\\hocphancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\tronghieu_941\\tronghieu_941\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|solutionrelative:tronghieu_941\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\tronghieu_941\\tronghieu_941\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|solutionrelative:tronghieu_941\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\tronghieu_941\\tronghieu_941\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|solutionrelative:tronghieu_941\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\tronghieu_941\\tronghieu_941\\views\\hocphan\\danhsachdangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|solutionrelative:tronghieu_941\\views\\hocphan\\danhsachdangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\tronghieu_941\\tronghieu_941\\models\\dangkyhocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|solutionrelative:tronghieu_941\\models\\dangkyhocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\tronghieu_941\\tronghieu_941\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|solutionrelative:tronghieu_941\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\tronghieu_941\\tronghieu_941\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|solutionrelative:tronghieu_941\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\tronghieu_941\\tronghieu_941\\models\\hocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|solutionrelative:tronghieu_941\\models\\hocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\tronghieu_941\\tronghieu_941\\models\\nganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|solutionrelative:tronghieu_941\\models\\nganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\tronghieu_941\\tronghieu_941\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|solutionrelative:tronghieu_941\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\tronghieu_941\\tronghieu_941\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|solutionrelative:tronghieu_941\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\tronghieu_941\\tronghieu_941\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|solutionrelative:tronghieu_941\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\tronghieu_941\\tronghieu_941\\views\\hocphan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|solutionrelative:tronghieu_941\\views\\hocphan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\tronghieu_941\\tronghieu_941\\views\\sinhvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|solutionrelative:tronghieu_941\\views\\sinhvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\tronghieu_941\\tronghieu_941\\views\\sinhvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|solutionrelative:tronghieu_941\\views\\sinhvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\tronghieu_941\\tronghieu_941\\views\\sinhvien\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|solutionrelative:tronghieu_941\\views\\sinhvien\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\tronghieu_941\\tronghieu_941\\views\\sinhvien\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|solutionrelative:tronghieu_941\\views\\sinhvien\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\tronghieu_941\\tronghieu_941\\views\\sinhvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|solutionrelative:tronghieu_941\\views\\sinhvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\tronghieu_941\\tronghieu_941\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|solutionrelative:tronghieu_941\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|t:\\data\\laptrinhweb\\viual studio 2022\\tronghieu_941\\tronghieu_941\\migrations\\20250605070303_taomoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5673E798-9448-45A7-A63B-D66B0F997642}|tronghieu_941\\tronghieu_941.csproj|solutionrelative:tronghieu_941\\migrations\\20250605070303_taomoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DangKyHocPhan.cs",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Models\\DangKyHocPhan.cs",
+              "RelativeDocumentMoniker": "tronghieu_941\\Models\\DangKyHocPhan.cs",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Models\\DangKyHocPhan.cs",
+              "RelativeToolTip": "tronghieu_941\\Models\\DangKyHocPhan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:06:42.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HocPhanController.cs",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Controllers\\HocPhanController.cs",
+              "RelativeDocumentMoniker": "tronghieu_941\\Controllers\\HocPhanController.cs",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Controllers\\HocPhanController.cs",
+              "RelativeToolTip": "tronghieu_941\\Controllers\\HocPhanController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:02:45.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "tronghieu_941\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "tronghieu_941\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T06:52:27.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DanhSachDangKy.cshtml",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Views\\HocPhan\\DanhSachDangKy.cshtml",
+              "RelativeDocumentMoniker": "tronghieu_941\\Views\\HocPhan\\DanhSachDangKy.cshtml",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Views\\HocPhan\\DanhSachDangKy.cshtml",
+              "RelativeToolTip": "tronghieu_941\\Views\\HocPhan\\DanhSachDangKy.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T08:18:19.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "tronghieu_941\\Controllers\\HomeController.cs",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "tronghieu_941\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:12:42.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "tronghieu_941\\Controllers\\AccountController.cs",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "tronghieu_941\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:04:17.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Program.cs",
+              "RelativeDocumentMoniker": "tronghieu_941\\Program.cs",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Program.cs",
+              "RelativeToolTip": "tronghieu_941\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAC0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T06:55:08.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\appsettings.json",
+              "RelativeDocumentMoniker": "tronghieu_941\\appsettings.json",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\appsettings.json",
+              "RelativeToolTip": "tronghieu_941\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-05T06:51:02.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HocPhan.cs",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Models\\HocPhan.cs",
+              "RelativeDocumentMoniker": "tronghieu_941\\Models\\HocPhan.cs",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Models\\HocPhan.cs",
+              "RelativeToolTip": "tronghieu_941\\Models\\HocPhan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:01:48.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Nganh.cs",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Models\\Nganh.cs",
+              "RelativeDocumentMoniker": "tronghieu_941\\Models\\Nganh.cs",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Models\\Nganh.cs",
+              "RelativeToolTip": "tronghieu_941\\Models\\Nganh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T06:53:04.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SinhVienController.cs",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Controllers\\SinhVienController.cs",
+              "RelativeDocumentMoniker": "tronghieu_941\\Controllers\\SinhVienController.cs",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Controllers\\SinhVienController.cs",
+              "RelativeToolTip": "tronghieu_941\\Controllers\\SinhVienController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T06:51:52.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Views\\HocPhan\\Index.cshtml",
+              "RelativeDocumentMoniker": "tronghieu_941\\Views\\HocPhan\\Index.cshtml",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Views\\HocPhan\\Index.cshtml",
+              "RelativeToolTip": "tronghieu_941\\Views\\HocPhan\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T08:17:16.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "tronghieu_941\\Models\\ErrorViewModel.cs",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "tronghieu_941\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:35:55.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "tronghieu_941\\Views\\Account\\Login.cshtml",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "tronghieu_941\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T08:16:34.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Views\\SinhVien\\Edit.cshtml",
+              "RelativeDocumentMoniker": "tronghieu_941\\Views\\SinhVien\\Edit.cshtml",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Views\\SinhVien\\Edit.cshtml",
+              "RelativeToolTip": "tronghieu_941\\Views\\SinhVien\\Edit.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T07:18:53.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Views\\SinhVien\\Details.cshtml",
+              "RelativeDocumentMoniker": "tronghieu_941\\Views\\SinhVien\\Details.cshtml",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Views\\SinhVien\\Details.cshtml",
+              "RelativeToolTip": "tronghieu_941\\Views\\SinhVien\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T07:20:46.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Views\\SinhVien\\Delete.cshtml",
+              "RelativeDocumentMoniker": "tronghieu_941\\Views\\SinhVien\\Delete.cshtml",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Views\\SinhVien\\Delete.cshtml",
+              "RelativeToolTip": "tronghieu_941\\Views\\SinhVien\\Delete.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T07:21:38.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Views\\SinhVien\\Create.cshtml",
+              "RelativeDocumentMoniker": "tronghieu_941\\Views\\SinhVien\\Create.cshtml",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Views\\SinhVien\\Create.cshtml",
+              "RelativeToolTip": "tronghieu_941\\Views\\SinhVien\\Create.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T07:16:06.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Views\\SinhVien\\Index.cshtml",
+              "RelativeDocumentMoniker": "tronghieu_941\\Views\\SinhVien\\Index.cshtml",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Views\\SinhVien\\Index.cshtml",
+              "RelativeToolTip": "tronghieu_941\\Views\\SinhVien\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T07:10:13.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Models\\SinhVien.cs",
+              "RelativeDocumentMoniker": "tronghieu_941\\Models\\SinhVien.cs",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Models\\SinhVien.cs",
+              "RelativeToolTip": "tronghieu_941\\Models\\SinhVien.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T06:52:47.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250605070303_taomoi.cs",
+              "DocumentMoniker": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Migrations\\20250605070303_taomoi.cs",
+              "RelativeDocumentMoniker": "tronghieu_941\\Migrations\\20250605070303_taomoi.cs",
+              "ToolTip": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\Migrations\\20250605070303_taomoi.cs",
+              "RelativeToolTip": "tronghieu_941\\Migrations\\20250605070303_taomoi.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:03:03.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

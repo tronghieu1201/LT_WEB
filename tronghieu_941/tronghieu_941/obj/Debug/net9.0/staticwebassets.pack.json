@@ -1,0 +1,293 @@
+{
+  "Files": [
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\tronghieu_941.bundle.scp.css",
+      "PackagePath": "staticwebassets\\tronghieu_941.cpivxvmdz6.bundle.scp.css"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\ImageSinhVien\\aca0a867-36b5-40fc-8b68-29ef3a7d5379.jpg",
+      "PackagePath": "staticwebassets\\ImageSinhVien\\aca0a867-36b5-40fc-8b68-29ef3a7d5379.jpg"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\ImageSinhVien\\bc69b1d7-7873-4342-8a6a-c2763678575e.jpg",
+      "PackagePath": "staticwebassets\\ImageSinhVien\\bc69b1d7-7873-4342-8a6a-c2763678575e.jpg"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\ImageSinhVien\\fe8849a8-60b2-4b79-b931-fdcfa284a830.jpg",
+      "PackagePath": "staticwebassets\\ImageSinhVien\\fe8849a8-60b2-4b79-b931-fdcfa284a830.jpg"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "T:\\data\\LapTrinhWeb\\Viual Studio 2022\\tronghieu_941\\tronghieu_941\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.tronghieu_941.props",
+      "PackagePath": "build\\tronghieu_941.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.tronghieu_941.props",
+      "PackagePath": "buildMultiTargeting\\tronghieu_941.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.tronghieu_941.props",
+      "PackagePath": "buildTransitive\\tronghieu_941.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.tronghieu_941.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.tronghieu_941.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

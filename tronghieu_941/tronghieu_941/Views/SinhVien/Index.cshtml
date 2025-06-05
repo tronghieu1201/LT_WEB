@@ -1,0 +1,40 @@
+﻿@model IEnumerable<tronghieu_941.Models.SinhVien>
+@{
+    ViewData["Title"] = "Danh sách sinh viên";
+}
+
+<h2>Danh sách sinh viên</h2>
+
+<a asp-action="Create" class="btn btn-primary">Thêm mới</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>MSVV</th>
+            <th>Họ tên</th>
+            <th>Giới tính</th>
+            <th>Ngày sinh</th>
+            <th>Ngành</th>
+            <th>Hình</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.MSVV</td>
+                <td>@item.HoTen</td>
+                <td>@item.GioiTinh</td>
+                <td>@item.NgaySinh.ToShortDateString()</td>
+                <td>@item.Nganh?.TenNganh</td>
+                <td><img src="@item.Hinh" width="100" /></td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Sửa</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">Chi tiết</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

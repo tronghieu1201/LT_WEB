@@ -1,0 +1,48 @@
+﻿@model tronghieu_941.Models.SinhVien
+
+@{
+    ViewData["Title"] = "Xóa sinh viên";
+}
+
+<h2 class="text-danger">Xác nhận xóa sinh viên</h2>
+
+<div>
+    <h4>Sinh viên</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">Mã SV</dt>
+        <dd class="col-sm-9">@Model.MSVV</dd>
+
+        <dt class="col-sm-3">Họ tên</dt>
+        <dd class="col-sm-9">@Model.HoTen</dd>
+
+        <dt class="col-sm-3">Giới tính</dt>
+        <dd class="col-sm-9">@Model.GioiTinh</dd>
+
+        <dt class="col-sm-3">Ngày sinh</dt>
+        <dd class="col-sm-9">@Model.NgaySinh.ToString("dd/MM/yyyy")</dd>
+
+        <dt class="col-sm-3">Ngành học</dt>
+        <dd class="col-sm-9">@Model.Nganh?.TenNganh</dd>
+
+        <dt class="col-sm-3">Hình ảnh</dt>
+        <dd class="col-sm-9">
+            @if (!string.IsNullOrEmpty(Model.Hinh))
+            {
+                <img src="@Model.Hinh" alt="Hình sinh viên" width="150" />
+            }
+            else
+            {
+                <span>Không có ảnh</span>
+            }
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <div class="form-group">
+            <button type="submit" class="btn btn-danger">Xóa</button>
+            <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+        </div>
+    </form>
+</div>

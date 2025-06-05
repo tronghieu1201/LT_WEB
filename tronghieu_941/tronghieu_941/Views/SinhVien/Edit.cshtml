@@ -1,0 +1,39 @@
+﻿@model tronghieu_941.Models.SinhVien
+@{
+    ViewData["Title"] = "Chỉnh sửa";
+}
+
+<h2>Chỉnh sửa thông tin sinh viên</h2>
+
+<form asp-action="Edit" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <label asp-for="MSVV"></label>
+        <input asp-for="MSVV" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="HoTen"></label>
+        <input asp-for="HoTen" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="GioiTinh"></label>
+        <select asp-for="GioiTinh" class="form-control">
+            <option>Nam</option>
+            <option>Nữ</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label asp-for="NgaySinh"></label>
+        <input asp-for="NgaySinh" class="form-control" type="date" />
+    </div>
+    <div class="form-group">
+        <label>Hình ảnh</label>
+        <input type="file" name="ImageFile" class="form-control" />
+        <img src="@Model.Hinh" width="100" />
+    </div>
+    <div class="form-group">
+        <label asp-for="MaNganh"></label>
+        <select asp-for="MaNganh" class="form-control" asp-items="ViewBag.Nganhs"></select>
+    </div>
+    <button type="submit" class="btn btn-success">Lưu</button>
+</form>

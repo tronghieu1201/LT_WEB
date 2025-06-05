@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\tronghieu_941.props" />
+</Project>

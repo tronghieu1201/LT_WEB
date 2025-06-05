@@ -1,0 +1,33 @@
+﻿@model List<tronghieu_941.Models.HocPhan>
+@{
+    ViewData["Title"] = "Đăng ký học phần";
+}
+
+<h2>Đăng ký học phần</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Mã học phần</th>
+            <th>Tên học phần</th>
+            <th>Số tín chỉ</th>
+            <th>Đăng ký</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var hp in Model)
+        {
+            <tr>
+                <td>@hp.MaHocPhan</td>
+                <td>@hp.TenHocPhan</td>
+                <td>@hp.SoTinChi</td>
+                <td>
+                    <a asp-action="DangKy" asp-route-maHocPhan="@hp.MaHocPhan" class="btn btn-success btn-sm">Đăng ký</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-controller="HocPhan" asp-action="DanhSachDangKy" class="btn btn-primary">Xem danh sách đăng ký</a> |
+<a asp-controller="Account" asp-action="Logout" class="btn btn-danger">Đăng xuất</a>

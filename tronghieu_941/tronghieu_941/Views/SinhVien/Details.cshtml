@@ -1,0 +1,18 @@
+﻿@model tronghieu_941.Models.SinhVien
+@{
+    ViewData["Title"] = "Chi tiết";
+}
+
+<h2>Chi tiết sinh viên</h2>
+
+<div>
+    <strong>MSVV:</strong> @Model.MSVV <br />
+    <strong>Họ tên:</strong> @Model.HoTen <br />
+    <strong>Giới tính:</strong> @Model.GioiTinh <br />
+    <strong>Ngày sinh:</strong> @Model.NgaySinh.ToShortDateString() <br />
+    <strong>Ngành:</strong> @Model.Nganh?.TenNganh <br />
+    <img src="@Model.Hinh" width="200" />
+</div>
+
+<a asp-action="Edit" asp-route-id="@Model.Id">Chỉnh sửa</a> |
+<a asp-action="Index">Trở về danh sách</a>
